@@ -109,7 +109,9 @@ function nameCharger(oldName) {
 ### Q: CSS中直接在 `img` 标签中给图片统一设置高度为什么没有反应？
 **A:** 可以尝试把 `img` 放在 `div` 容器里，然后在 `div` 容器中加入 `width` 和 `height`。
 ### Q: P3 Making Peach Ice Cream Tests
+
 <br>
+
 #### Q: 用 `<li>` 标签里设置 `float： left` 或者 `<ul>` 中设置 `display: inline` 都可以达到目的，但是插件提示错误？
 **A:** 在 `<li>` 中设置 `display: inline` 即可。
 #### Q: The recipe is centered inside the paper background处，设置 `margin: 0 auto` 却无法通过？
