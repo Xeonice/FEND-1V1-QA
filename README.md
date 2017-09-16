@@ -113,7 +113,9 @@ function nameCharger(oldName) {
 #### Q: Homemade 右侧的图片没有与标题同行？
 **A:** `recipe` 里面设置了 `width` ， 还有一个 `padding` ， 去掉即可。
 <br>
+
 ## 9.11 - 9.18
+
 ### Q: 使用 `Font Awesome` CDN 时如何更改图标样式？例如大小／位置？
 **A:** CDN上Download下来的样式是无法被直接更改的，因此，我们可以通过为目标元素添加父容器 `div` ，在父容器 `div` 上进行样式的更改来完成相应目标。
 PS：IconFont相关可以参见[Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)，相较于 `Font Awesome` 加载速度更快，更加本土化。
@@ -123,7 +125,9 @@ PS：IconFont相关可以参见[Iconfont-阿里巴巴矢量图标库](http://www
 **A:** 可以参见[栅格系统](http://v3.bootcss.com/css/#grid)，并参照 `BootStrap` 源代码进行布局。
 ### Q: 使用 BootStrap 框架必须要在每一个项目中都下载一个 BootStrap 项目文件夹吗？
 **A:** CSS文件可通过CDN引用的方式进行加载。具体使用方法可参见[使用 BootCDN 提供的免费 CDN 加速服务（同时支持 http 和 https 协议）](http://v3.bootcss.com/getting-started)。
+
 <br>
+
 ## 9.18 - 9.25
 
 
