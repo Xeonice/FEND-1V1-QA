@@ -20,7 +20,9 @@
          * [Q: P3 Making Peach Ice Cream Tests](#q-p3-making-peach-ice-cream-tests)
          
 <br>
+
 ## 8.21 - 8.27
+
 ### Q：是否应该用其他方式巩固自己CSS方面学习成果？
 **A:** 可考虑参照现有的，自己喜欢的网站进行临摹，运用CSS，HTML实现与目标网站相同的样式
 ### Q：Grunt是否对今后项目有影响？压缩图片的基本原理是怎样的？
