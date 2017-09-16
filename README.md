@@ -38,7 +38,9 @@ Grunt压缩图片的基本原理与大部分图片压缩工具的原理基本相
 **A:** 详情参照[Layoutit](http://layoutit.justjavac.com)，一套简单的拖动布局系统。
 ### Q：CSS集成库推荐？
 **A:** [Bootstrap](http://www.bootcss.com)，一套极为成熟的CSS框架系统。
+
 <br>
+
 ## 8.28-9.4
 ### Q: Bootstrap文档应该在哪里查阅？
 **A:** 详情可见[Bootstrap中文网](http://v3.bootcss.com/)。
@@ -95,7 +97,9 @@ function nameCharger(oldName) {
 > `ECMAScript` 中的字符串是不可变的，也就是说，字符串一旦创建，它们的值就不能改变。要改变某个变量保存的字符串，首先要销毁原来的字符串，然后再用另一个包含新值的字符串填充该变量。
 
 也就是说，当我们在进行 `names[i] = names[i].toLowerCase();` 操作时，原先的字符串在运算中就被销毁了，因此，该操作是不可行的。
+
 <br>
+
 ## 9.4 - 9.11
 ### Q: `display: inline` 能与 `float` 属性实现相近的效果，那么这两个 `CSS` 属性有什么区别呢？
 **A:** 详情可参看[详解CSS中的display属性（行内元素和块级元素）](https://segmentfault.com/a/1190000000654770)，[inline-block和float的共性和区别](http://www.cnblogs.com/scot/p/5501669.html)这两篇文章。
@@ -112,6 +116,7 @@ function nameCharger(oldName) {
 **A:** 参见 [制作桃子口味的冰淇淋中的“margin:0 auto”问题](https://discussions.youdaxue.com/t/margin-0-auto/42698/6) 中 **Zhilian** 的回答
 #### Q: Homemade 右侧的图片没有与标题同行？
 **A:** `recipe` 里面设置了 `width` ， 还有一个 `padding` ， 去掉即可。
+
 <br>
 
 ## 9.11 - 9.18
