@@ -118,6 +118,9 @@ function nameCharger(oldName) {
 ](http://luopq.com/2015/10/26/CSS-Box-Model/)。
 ### Q: CSS中直接在 `img` 标签中给图片统一设置高度为什么没有反应？
 **A:** 可以尝试把 `img` 放在 `div` 容器里，然后在 `div` 容器中加入 `width` 和 `height`。
+
+<br>
+
 ### Q: P3 Making Peach Ice Cream Tests
 
 <br>
