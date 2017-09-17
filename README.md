@@ -18,7 +18,17 @@
          * [Q: 盒子模型和容器的概念有些混淆](#q-盒子模型和容器的概念有些混淆)
          * [Q: CSS中直接在 img 标签中给图片统一设置高度为什么没有反应？](#q-css中直接在-img-标签中给图片统一设置高度为什么没有反应)
          * [Q: P3 Making Peach Ice Cream Tests](#q-p3-making-peach-ice-cream-tests)
-         
+            * [Q: 用 &lt;li&gt; 标签里设置 <code>float： left</code> 或者 <code>&lt;ul&gt;</code> 中设置 <code>display: inline</code> 都可以达到目的，但是插件提示错误？](#q-用-li-标签里设置-float-left-或者-ul-中设置-display-inline-都可以达到目的但是插件提示错误)
+            * [Q: The recipe is centered inside the paper background处，设置 margin: 0 auto 却无法通过？](#q-the-recipe-is-centered-inside-the-paper-background处设置-margin-0-auto-却无法通过)
+            * [Q: Homemade 右侧的图片没有与标题同行？](#q-homemade-右侧的图片没有与标题同行)
+      * [9.11 - 9.18](#911---918)
+         * [Q: 使用 Font Awesome CDN 时如何更改图标样式？例如大小／位置？](#q-使用-font-awesome-cdn-时如何更改图标样式例如大小位置)
+         * [Q: 必须挂 VPN 才能安装 grunt 插件吗？](#q-必须挂-vpn-才能安装-grunt-插件吗)
+         * [Q: P3 部分该如何使用栅格布局？](#q-p3-部分该如何使用栅格布局)
+         * [Q: 使用 BootStrap 框架必须要在每一个项目中都下载一个 BootStrap 项目文件夹吗？](#q-使用-bootstrap-框架必须要在每一个项目中都下载一个-bootstrap-项目文件夹吗)
+      * [9.18 - 9.25](#918---925)
+
+
 <br>
 
 ## 8.21 - 8.27
